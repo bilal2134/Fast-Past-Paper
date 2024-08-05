@@ -1,0 +1,29 @@
+.footer {
+    background-color: #006400;
+    color: #e0f7e9;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  .footer-left, .footer-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-icon {
+    color: #e0f7e9;
+    margin-left: 1em;
+    font-size: 1.5em;
+    transition: color 0.3s;
+  }
+  
+  .footer-icon:hover {
+    color: #66ff66; /* Lighter green shade for hover effect */
+  }
+  

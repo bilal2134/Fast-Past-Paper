@@ -1,0 +1,2010 @@
+{
+    "Accounting and Finance (A&F)": {
+        "Youtube link": [
+            {
+                "text": "Full Financial Accounting Course in One Video (10 Hours)",
+                "url": "https://www.youtube.com/watch?v=v-djL7SPw4c"
+            },
+            {
+                "text": "Financial Accounting Course (complete playlist)",
+                "url": "https://www.youtube.com/playlist?list=PLxP0KZzCGFYMghlw8ObWScuUwepqjXjbB"
+            },
+            {
+                "text": "Understanding the Basics of Financial Accounting",
+                "url": "https://www.youtube.com/watch?v=QOO8dCB9ZB0"
+            },
+            {
+                "text": "FINANCIAL STATEMENTS: all the basics in 8 MINS!",
+                "url": "https://www.youtube.com/watch?v=Fi1wkUczuyk"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Farhat's Accounting Lectures",
+                "url": "https://www.youtube.com/user/farhatlectures"
+            },
+            {
+                "text": "Accounting Stuff",
+                "url": "https://www.youtube.com/channel/UCaJxH8p8On7LgONGr8HhLGg"
+            },
+            {
+                "text": "Else Grech Accounting",
+                "url": "https://www.youtube.com/channel/UCGmT_QhQyLpLLxFv2Op9fvw"
+            },
+            {
+                "text": "CPA Strength",
+                "url": "https://www.youtube.com/user/cpastrength"
+            }
+        ]
+    },
+    "Advanced Computer Architecture (ACA)": {
+        "Youtube link": [
+            {
+                "text": "Advanced Computer Architecture",
+                "url": "https://www.youtube.com/playlist?list=PL1iLu2CSC9EWZMIh4_V5dGroMAwA84Lmz"
+            },
+            {
+                "text": "Advanced Computer Architecture - BTech Course",
+                "url": "https://www.youtube.com/playlist?list=PLgFexeDRsmE7H6KU8yF0QSf89JqfD5MRy"
+            },
+            {
+                "text": "Introduction and Basics of Computer Architecture",
+                "url": "https://www.youtube.com/watch?v=4yfkM_5EFgo"
+            },
+            {
+                "text": "Computer Architecture: Advanced Processor Design",
+                "url": "https://www.youtube.com/playlist?list=PL6Pdhg3H0szONfoRVd1MAwLmKHg9hWxIF"
+            },
+            {
+                "text": "Parallel Processing & Computing",
+                "url": "https://www.youtube.com/playlist?list=PL3R9-um41Jsz4as9nqgVB6YRR90rs0wE6"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Advanced Computer Architecture Course",
+                "url": "https://swayam.gov.in/nd1_noc19_cs62/preview"
+            },
+            {
+                "text": "Computer Architecture Tutorials",
+                "url": "https://www.computertutorials.com"
+            }
+        ]
+    },
+    "Advanced Database Concepts (ADC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Advanced Database Concepts (ADC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Advanced Database Concepts (ADC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Advanced Database Concepts (ADC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Advanced Database Concepts (ADC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Advanced Operating System (AOS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Advanced Operating System (AOS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Advanced Operating System (AOS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Advanced Operating System (AOS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Advanced Operating System (AOS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Advanced Programming (AdP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Advanced Programming (AdP)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Advanced Programming (AdP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Advanced Programming (AdP) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Advanced Programming (AdP) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Advanced Software Engineering (ASE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Advanced Software Engineering (ASE)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Advanced Software Engineering (ASE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Advanced Software Engineering (ASE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Advanced Software Engineering (ASE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Advanced Stats (AdS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Advanced Stats (AdS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Advanced Stats (AdS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Advanced Stats (AdS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Advanced Stats (AdS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Applied Physics (AP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Applied Physics (AP)",
+                "url": "https://www.youtube.com/watch?v=-6IgkG5yZfo&list=PLhydt7aRK7DumZR08iF5FHA_1OZmmkTOK"
+            },
+            {
+                "text": "Understanding Applied Physics (AP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Applied Physics (AP) Resources",
+                "url": "https://mrcet.com/downloads/digital_notes/HS/R20/APPLIED%20PHYSICS.pdf"
+            }
+        ]
+    },
+    "Artificial Intelligence (AI)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Artificial Intelligence (AI)",
+                "url": "https://www.youtube.com/watch?v=GHpchgLoDvI&list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz"
+            },
+            {
+                "text": "Understanding Artificial Intelligence (AI) Concepts",
+                "url": "https://www.youtube.com/watch?v=uB3i-qV6VdM&list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Artificial Intelligence (AI) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Artificial Intelligence (AI) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Big Data (BD)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Big Data (BD)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Big Data (BD) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Big Data (BD) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Big Data (BD) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Business Process Engineering (BPE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Business Process Engineering (BPE)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Business Process Engineering (BPE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Business Process Engineering (BPE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Business Process Engineering (BPE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "COAL LAB (COALL)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to COAL LAB (COALL)",
+                "url": "https://www.youtube.com/watch?v=SL--qoiu7yA&list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1"
+            },
+            {
+                "text": "Understanding COAL LAB (COALL) Concepts",
+                "url": "https://www.youtube.com/watch?v=7xiPJVPzcGM&list=PLduM7bkxBdOczQDpzp3R9ieJRpjtZrcxj"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "COAL LAB (COALL) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "COAL LAB (COALL) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Calculus (Cal)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Calculus (Cal)",
+                "url": "https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv"
+            },
+            {
+                "text": "Understanding Calculus (Cal) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Calculus (Cal) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Calculus (Cal) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Cloud Computing (ICC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Cloud Computing (ICC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Cloud Computing (ICC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Cloud Computing (ICC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Cloud Computing (ICC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Communication and Presentation Skills (CPS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Communication and Presentation Skills (CPS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Communication and Presentation Skills (CPS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Communication and Presentation Skills (CPS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Communication and Presentation Skills (CPS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Communication and Presentation Skills Lab (CPS Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Communication and Presentation Skills Lab (CPS Lab)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Communication and Presentation Skills Lab (CPS Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Communication and Presentation Skills Lab (CPS Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Communication and Presentation Skills Lab (CPS Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Compiler Construction (CC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Compiler Construction (CC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Compiler Construction (CC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Compiler Construction (CC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Compiler Construction (CC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Computer Architecture (CA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Computer Architecture (CA)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Computer Architecture (CA) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Computer Architecture (CA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Computer Architecture (CA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Computer Modelling Simulation (CMS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Computer Modelling Simulation (CMS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Computer Modelling Simulation (CMS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Computer Modelling Simulation (CMS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Computer Modelling Simulation (CMS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Computer Networks (CN)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Computer Networks (CN)",
+                "url": "https://www.youtube.com/watch?v=74sEFYBBRAY&list=PL1ya5dD_M8uX-BLUF1FEvUNsYWQL5_l0O"
+            },
+            {
+                "text": "Understanding Computer Networks (CN) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Computer Networks (CN) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Computer Networks (CN) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Computer Networks Lab (CN Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Computer Networks Lab (CN Lab)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Computer Networks Lab (CN Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Computer Networks Lab (CN Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Computer Networks Lab (CN Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Computer Organization & Assembly Language (COAL)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Computer Organization & Assembly Language (COAL)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Computer Organization & Assembly Language (COAL) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Computer Organization & Assembly Language (COAL) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Computer Organization & Assembly Language (COAL) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Computer Vision (CV)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Computer Vision (CV)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Computer Vision (CV) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Computer Vision (CV) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Computer Vision (CV) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Critical Thinking (CT)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Critical Thinking (CT)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Critical Thinking (CT) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Critical Thinking (CT) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Critical Thinking (CT) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Data Science (DS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Data Science (DS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Data Science (DS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Data Science (DS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Data Science (DS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Data Structures (DS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Data Structures (DS)",
+                "url": "https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU"
+            },
+			{
+                "text": "Introduction to Data Structures (DS)",
+                "url": "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+            },
+            {
+                "text": "Understanding Data Structures (DS) Concepts",
+                "url": "https://www.youtube.com/watch?v=XCyuHSJS7XE&list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Visualisation of Concepts",
+                "url": "https://visualgo.net/en/list"
+            },
+            {
+                "text": "Data Structures (DS) Guide",
+                "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+            }
+        ]
+    },
+    "Data Warehousing & Data Mining (DW)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Data Warehousing & Data Mining (DW)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Data Warehousing & Data Mining (DW) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Data Warehousing & Data Mining (DW) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Data Warehousing & Data Mining (DW) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Database (DB)": {
+        "Youtube link": [
+            {
+                "text": "Set up SQL server",
+                "url": "https://www.youtube.com/watch?v=iaUXjTL_F9U&t=241s"
+            },
+            {
+                "text": "Understanding Database (DB) Concepts",
+                "url": "https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Database (DB) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Database (DB) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Deep Learning (DL)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Deep Learning (DL)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Deep Learning (DL) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Deep Learning (DL) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Deep Learning (DL) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Design and Analysis of Algorithms (Algo)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Design and Analysis of Algorithms (Algo) Abdul Bari GOAT",
+                "url": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+            },
+            {
+                "text": "Understanding Design and Analysis of Algorithms (Algo) Concepts",
+                "url": "https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Design and Analysis of Algorithms (Algo) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Design and Analysis of Algorithms (Algo) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Differential Equations (DE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Differential Equations (DE)",
+                "url": "https://www.youtube.com/watch?v=O-YjtRUm0qw&list=PLHbEGU3XTQy-SQ74iNKA6D_qZ6d4fkmEx"
+            },
+            {
+                "text": "Understanding Differential Equations (DE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Differential Equations (DE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Differential Equations (DE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Digital Image Processing (DIP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Digital Image Processing (DIP)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Digital Image Processing (DIP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Digital Image Processing (DIP) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Digital Image Processing (DIP) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Digital Logic Design (DLD)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Digital Logic Design (DLD)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Digital Logic Design (DLD) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Digital Logic Design (DLD) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Digital Logic Design (DLD) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Digital Logic Designing Lab (DLD Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Digital Logic Designing Lab (DLD Lab)",
+                "url": "https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm"
+            },
+            {
+                "text": "Understanding Digital Logic Designing Lab (DLD Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Digital Logic Designing Lab (DLD Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Digital Logic Designing Lab (DLD Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Discrete Structures (DS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Discrete Structures (DS)",
+                "url": "https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3"
+            },
+            {
+                "text": "Understanding Discrete Structures (DS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Discrete Structures (DS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Discrete Structures (DS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Ecommerce (EC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Ecommerce (EC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Ecommerce (EC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Ecommerce (EC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Ecommerce (EC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "English Comprehension Lab (Eng Comp Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to English Comprehension Lab (Eng Comp Lab)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding English Comprehension Lab (Eng Comp Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "English Comprehension Lab (Eng Comp Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "English Comprehension Lab (Eng Comp Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "English Comprehension and Composition (Eng Comp)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to English Comprehension and Composition (Eng Comp)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding English Comprehension and Composition (Eng Comp) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "English Comprehension and Composition (Eng Comp) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "English Comprehension and Composition (Eng Comp) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Enterprise Information Systems (EIS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Enterprise Information Systems (EIS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Enterprise Information Systems (EIS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Enterprise Information Systems (EIS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Enterprise Information Systems (EIS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Entrepreneurship (Entre)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Entrepreneurship (Entre)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Entrepreneurship (Entre) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Entrepreneurship (Entre) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Entrepreneurship (Entre) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Environmental Sciences (ES)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Environmental Sciences (ES)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Environmental Sciences (ES) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Environmental Sciences (ES) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Environmental Sciences (ES) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Evolutionary Computation (EC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Evolutionary Computation (EC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Evolutionary Computation (EC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Evolutionary Computation (EC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Evolutionary Computation (EC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Formal Methods (FM)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Formal Methods (FM)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Formal Methods (FM) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Formal Methods (FM) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Formal Methods (FM) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Human Computer Interaction (HCI)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Human Computer Interaction (HCI)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Human Computer Interaction (HCI) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Human Computer Interaction (HCI) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Human Computer Interaction (HCI) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Human Resource Management (HRM)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Human Resource Management (HRM)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Human Resource Management (HRM) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Human Resource Management (HRM) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Human Resource Management (HRM) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Information Retrieval (IR)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Information Retrieval (IR)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Information Retrieval (IR) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Information Retrieval (IR) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Information Retrieval (IR) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Information Security (IS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Information Security (IS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Information Security (IS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Information Security (IS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Information Security (IS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "International Relations (IR)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to International Relations (IR)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding International Relations (IR) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "International Relations (IR) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "International Relations (IR) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Internet of Things (IOT)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Internet of Things (IOT)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Internet of Things (IOT) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Internet of Things (IOT) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Internet of Things (IOT) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Intro to Data Science (Intro to DS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Intro to Data Science (Intro to DS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Intro to Data Science (Intro to DS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Intro to Data Science (Intro to DS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Intro to Data Science (Intro to DS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Introduction To ICT (IICT)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Introduction To ICT (IICT)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Introduction To ICT (IICT) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Introduction To ICT (IICT) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Introduction To ICT (IICT) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Islamic Studies": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Islamic Studies",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Islamic Studies Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Islamic Studies Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Islamic Studies Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Linear Algebra (LA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Linear Algebra (LA)",
+                "url": "https://www.youtube.com/watch?v=LHsPJ2bQX1U&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK"
+            },
+            {
+                "text": "Understanding Linear Algebra (LA) Concepts",
+                "url": "https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Linear Algebra (LA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Linear Algebra (LA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Management and Organizational Behavior (MOB)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Management and Organizational Behavior (MOB)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Management and Organizational Behavior (MOB) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Management and Organizational Behavior (MOB) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Management and Organizational Behavior (MOB) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Marketing Management (MM)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Marketing Management (MM)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Marketing Management (MM) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Marketing Management (MM) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Marketing Management (MM) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Mass Communication (MC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Mass Communication (MC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Mass Communication (MC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Mass Communication (MC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Mass Communication (MC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Natural Language Processing (NLP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Natural Language Processing (NLP)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Natural Language Processing (NLP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Natural Language Processing (NLP) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Natural Language Processing (NLP) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Network Security (NS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Network Security (NS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Network Security (NS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Network Security (NS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Network Security (NS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Numerical Computing (NC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Numerical Computing (NC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Numerical Computing (NC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Numerical Computing (NC) Resources",
+                "url": "https://github.com/dmitsot/computational_mathematics"
+            },
+            {
+                "text": "Numerical Computing (NC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Object Oriented Analysis & Design Lab (SDA Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Object Oriented Analysis & Design Lab (SDA Lab)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Object Oriented Analysis & Design Lab (SDA Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Object Oriented Analysis & Design Lab (SDA Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Object Oriented Analysis & Design Lab (SDA Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Object Oriented Programming (OOP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Object Oriented Programming (OOP)",
+                "url": "https://www.youtube.com/watch?v=nGJTWaaFdjc&list=PLISTUNloqsz0z9JJJke7g7PxRLvy6How9"
+            },
+            {
+                "text": "Understanding Object Oriented Programming (OOP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Object Oriented Programming (OOP) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Object Oriented Programming (OOP) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Operating System (OS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Operating System (OS)",
+                "url": "https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p"
+            },
+            {
+                "text": "Understanding Operating System (OS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Operating System (OS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Operating System (OS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Operating System Lab (OS Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Operating System Lab (OS Lab)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Operating System Lab (OS Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Operating System Lab (OS Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Operating System Lab (OS Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Operations Research (OR)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Operations Research (OR)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Operations Research (OR) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Operations Research (OR) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Operations Research (OR) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Pakistan Studies (PS)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Pakistan Studies (PS)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Pakistan Studies (PS) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Pakistan Studies (PS) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Pakistan Studies (PS) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Parallel and Distributed Computing (PB)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Parallel and Distributed Computing (PB)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Parallel and Distributed Computing (PB) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Parallel and Distributed Computing (PB) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Parallel and Distributed Computing (PB) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Parallel and Distributing Computing (PDC)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Parallel and Distributing Computing (PDC)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Parallel and Distributing Computing (PDC) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Parallel and Distributing Computing (PDC) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Parallel and Distributing Computing (PDC) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Principles of Leadership (PoL)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Principles of Leadership (PoL)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Principles of Leadership (PoL) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Principles of Leadership (PoL) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Principles of Leadership (PoL) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Probability": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Probability",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Probability Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Probability Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Probability Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Professional Issues in IT (PP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Professional Issues in IT (PP)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Professional Issues in IT (PP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Professional Issues in IT (PP) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Professional Issues in IT (PP) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Programming Fundamental Lab (PF Lab)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Programming Fundamental Lab (PF Lab)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Programming Fundamental Lab (PF Lab) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Programming Fundamental Lab (PF Lab) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Programming Fundamental Lab (PF Lab) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Programming Fundamentals (PF)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Programming Fundamentals (PF)",
+                "url": "https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL"
+            },
+            {
+                "text": "Understanding Programming Fundamentals (PF) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Programming Fundamentals (PF) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Programming Fundamentals (PF) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Psychology": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Psychology",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Psychology Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Psychology Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Psychology Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Requirements Engineering (RE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Requirements Engineering (RE)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Requirements Engineering (RE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Requirements Engineering (RE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Requirements Engineering (RE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Social Network Analysis (SNA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Social Network Analysis (SNA)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Social Network Analysis (SNA) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Social Network Analysis (SNA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Social Network Analysis (SNA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Sociology": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Sociology",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Sociology Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Sociology Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Sociology Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Design and Analysis (SDA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Design and Analysis (SDA)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Design and Analysis (SDA) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Design and Analysis (SDA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Design and Analysis (SDA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Engineering (SE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Engineering (SE)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Engineering (SE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Engineering (SE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Engineering (SE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Engineering Technologies (SET)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Engineering Technologies (SET)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Engineering Technologies (SET) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Engineering Technologies (SET) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Engineering Technologies (SET) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Process Management and Metrics (SPMM)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Process Management and Metrics (SPMM)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Process Management and Metrics (SPMM) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Process Management and Metrics (SPMM) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Process Management and Metrics (SPMM) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Quality Assurance &  Management (SQA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Quality Assurance &  Management (SQA)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Quality Assurance &  Management (SQA) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Quality Assurance &  Management (SQA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Quality Assurance &  Management (SQA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Requirements Engineering (SRE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Requirements Engineering (SRE)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Requirements Engineering (SRE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Requirements Engineering (SRE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Requirements Engineering (SRE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software Testing (ST)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software Testing (ST)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software Testing (ST) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software Testing (ST) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software Testing (ST) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Software for Mobile Devices (SMD)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Software for Mobile Devices (SMD)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Software for Mobile Devices (SMD) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Software for Mobile Devices (SMD) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Software for Mobile Devices (SMD) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Statistical Pattern Recognition & Learning (SPRL)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Statistical Pattern Recognition & Learning (SPRL)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Statistical Pattern Recognition & Learning (SPRL) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Statistical Pattern Recognition & Learning (SPRL) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Statistical Pattern Recognition & Learning (SPRL) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Technical & Business Writing (TBW)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Technical & Business Writing (TBW)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Technical & Business Writing (TBW) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Technical & Business Writing (TBW) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Technical & Business Writing (TBW) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Theory of Automata (TA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Theory of Automata (TA)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Theory of Automata (TA) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Theory of Automata (TA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Theory of Automata (TA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Theory of Programming Languages (TPA)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Theory of Programming Languages (TPA)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Theory of Programming Languages (TPA) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Theory of Programming Languages (TPA) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Theory of Programming Languages (TPA) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Web Engineering (WE)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Web Engineering (WE)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Web Engineering (WE) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Web Engineering (WE) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Web Engineering (WE) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    },
+    "Web Programming (WP)": {
+        "Youtube link": [
+            {
+                "text": "Introduction to Web Programming (WP)",
+                "url": "https://www.youtube.com/watch?v=example1"
+            },
+            {
+                "text": "Understanding Web Programming (WP) Concepts",
+                "url": "https://www.youtube.com/watch?v=example2"
+            }
+        ],
+        "Other Helpful Links": [
+            {
+                "text": "Web Programming (WP) Resources",
+                "url": "https://www.resources.com"
+            },
+            {
+                "text": "Web Programming (WP) Guide",
+                "url": "https://www.guides.com"
+            }
+        ]
+    }
+}

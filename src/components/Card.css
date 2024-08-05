@@ -1,0 +1,44 @@
+.card {
+  background-color: #d0d058;
+  padding: 15px;
+  margin: 10px;
+  width: 200px;
+  image-rendering: pixelated;
+}
+
+.pixel-border {
+  box-shadow: 
+    -5px 0 0 0 #000,
+    5px 0 0 0 #000,
+    0 -5px 0 0 #000,
+    0 5px 0 0 #000;
+}
+
+.pixel-text {
+  font-family: 'Press Start 2P', cursive;
+  color: #000;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.pixel-button {
+  background-color: #58d058;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.pixel-button:hover {
+  transform: scale(1.05);
+}
+
+.pixel-button:active {
+  transform: scale(0.95);
+}
+
+.button-text {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 12px;
+  color: #000;
+}
