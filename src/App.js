@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 import ComingSoon from './components/ComingSoon';
 import Resources from './components/Resources'; // Import the new component
 import materials from './data/materials.json';
-
+import { SpeedInsights } from "@vercel/speed-insights/react"
 const App = () => {
   const [searchTerm, setSearchTerm] = useState('');
 
