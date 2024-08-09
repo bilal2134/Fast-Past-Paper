@@ -16,7 +16,7 @@ const Resources = () => {
       
       <h2>Semester Plan for Islamabad Campus</h2>
       <a
-        href="https://example.com/semester-plan"
+        href="http://slate.nu.edu.pk/access/content/attachment/ISBCS/Announcements/90e7d0be-0660-46ae-8684-cd1b13f19554/Academic%20Plan%20Fall%202024.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="resource-link"
