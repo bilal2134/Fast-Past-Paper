@@ -3,11 +3,19 @@ import { Link } from 'react-router-dom';
 
 const Card = ({ title, index }) => {
   return (
-    <div className="card">
-      
-      <h3>{title}</h3>
-      <Link to={`/details/${index}`}><button>Show More</button></Link>
+
+          <div className="roadmap">
+      <h2>for a cleander past paper intetface</h2>
+      <a href="https://www.wondar.site/">
+        <button className="roadmap-button">Get CV template</button>
+      </a>
     </div>
+
+    // <div className="card">
+      
+    //   <h3>{title}</h3>
+    //   <Link to={`/details/${index}`}><button>Show More</button></Link>
+    // </div>
   );
 };
 
