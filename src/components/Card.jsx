@@ -6,11 +6,11 @@ const Card = ({ title, index }) => {
 
          
 
-    // <div className="card">
+    <div className="card">
       
-    //   <h3>{title}</h3>
-    //   <Link to={`/details/${index}`}><button>Show More</button></Link>
-    // </div>
+      <h3>{title}</h3>
+      <Link to={`/details/${index}`}><button>Show More</button></Link>
+    </div>
   );
 };
 
